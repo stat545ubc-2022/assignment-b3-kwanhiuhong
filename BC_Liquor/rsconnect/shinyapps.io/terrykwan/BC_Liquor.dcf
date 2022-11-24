@@ -1,0 +1,13 @@
+name: BC_Liquor
+title: BC_Liquor
+username:
+account: terrykwan
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 7721091
+bundleId: 6549681
+url: https://terrykwan.shinyapps.io/BC_Liquor/
+when: 1669268660.41408
+lastSyncTime: 1669268660.41409
+asMultiple: FALSE
+asStatic: FALSE
