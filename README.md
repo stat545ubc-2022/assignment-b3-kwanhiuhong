@@ -1,10 +1,12 @@
 # STAT545B - Assignment B-3
 
 This repo holds my shinny app for STAT545B - Assignment B-3
-<br>
+<br><br>
 I chose Option A - BC Liquor app and made the application more UI/UX friendly by changing the background theme and adding a UBC logo in the title to acknolwedge our developers' contribution. Also, we included a new feature to sort the alcohol data by alcoholic content, which helps customers to find the best alcohol that suits their needs the best.
-<br>
+<br><br>
 I deployed my app at https://terrykwan.shinyapps.io/BC_Liquor/
+<br><br>
+I acknowledge that the data we use comes from OpenDataBC which contains information about all the products sold by BC Liquor Store.
 
 ### Features
 
